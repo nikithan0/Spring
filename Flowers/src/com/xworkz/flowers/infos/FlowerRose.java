@@ -12,7 +12,7 @@ public class FlowerRose implements Flowers {
 
 	@Override
 	public void useInDecorations() {
-		System.out.println("Rose for Decorations");
+		System.out.println("Rose for Decorations...");
 	}
 
 }
